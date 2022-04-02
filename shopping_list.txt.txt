@@ -1,5 +1,7 @@
 Banana x2
 Jabolko x4
 Portokal x5
-Ananas x6
-Jagodi x11
+Ananas x7
+Jagodi x5
+Slivi x3
+
